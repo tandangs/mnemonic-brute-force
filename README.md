@@ -1,6 +1,8 @@
 # mnemonic-brute-force
 this mnemonic brute force with check balance 3 network, eth, bnb, polygon
 
+this script will generate phrase, and check balance with > 0, and tx count > 0 , and save found mnemonic to txt file
+
 npm install
 
 node 3n.js
